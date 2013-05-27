@@ -1,0 +1,11 @@
+To do:
+NOT_FIXED: 3 columns gallery post don't display properly.
+REQUIRED: Please use the 'wp_enqueue_script' hook to add scripts and styles
+REQUIRED: Themes must enqueue comment-reply script via callback, rather than hard-code the enqueue in the HTML document head.
+REQUIRED: Please remove wdp_remove_gallery_columns_option() and have your theme deal with WordPress? gallery settings.
+REQUIRED: Settings page capability is edit_theme_options, rather than admin, manage_options, etc.
+REQUIRED: index.php must display a list of posts in excerpt or full-length form and include wp_link_pages() to support navigation links within posts.
+REQUIRED: Second widget area (#tertiary) breaks layout on very short posts
+REQUIRED: Please adjust the line height for post navigation and Tag/Category? info.
+REQUIRED: Please adjust the spacing beween posts on search result pages
+REQUIRED: On password protected posts, the password form should be displayed.

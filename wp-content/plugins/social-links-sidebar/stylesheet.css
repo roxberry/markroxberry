@@ -1,0 +1,17 @@
+#socialLinksSidebarContainer a img{
+	margin: 0px 8px 0px 0px;
+	border-style:none;
+	background-color:none;
+	float: left;
+}
+
+#socialLinksSidebarContainer a {
+	clear:both;
+	display:block;
+	margin-bottom:8px;
+	text-decoration:none !important;
+}
+
+#socialLinksSidebarContainer {
+	padding-left:8px;
+}

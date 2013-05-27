@@ -1,0 +1,24 @@
+/*messages*/
+.error {color:#cc0000;}
+
+.widephoto_box { border:2px solid #DDD;
+	padding:20px;
+	
+ }
+
+#widephoto_menu {background-color:#479926;
+ padding:20px;}
+ 
+ #widephoto_menu li { display:inline;
+ margin-right:10px;
+ padding-right:10px;
+ font-size:13px;
+ font-weight:bold;
+ color:#FFF;
+border-right:1px solid #FFF;
+ }
+  #widephoto_menu li a{ 
+
+ color:#FFF;
+
+ }

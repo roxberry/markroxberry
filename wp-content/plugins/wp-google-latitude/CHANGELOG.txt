@@ -1,0 +1,9 @@
+CHANGELOG - WP Google Latitude
+
+Version		Changed by		Changes
+V 0.1		SJO			Initial beta released version
+V 0.11		SJO			Updated description.
+V 1.0		SJO			First release to Wordpress
+V 1.01		SJO			Update to documentation
+V 1.02		SJO			Fixed a hanging <A> that hadn't been closed - typo
+
